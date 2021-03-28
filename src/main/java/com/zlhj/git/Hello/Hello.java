@@ -6,7 +6,7 @@ public class Hello {
         System.out.println("啊这");
         //没这样玩的
         System.out.println("我就在这里测试");
-
+        System.out.println("添加失败>?");
 
         System.out.println("我感觉很难");
     }
